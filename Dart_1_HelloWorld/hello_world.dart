@@ -4,6 +4,6 @@ void main(List<String> args) {
   print('emre\'nin');
   print("Omar" + " Mehdixanli");
 
-  //Ilk olaraq yazdığım dart kodlarım
+  //Ilk olaraq yazdığım dart kodlarımmm
   
 }
